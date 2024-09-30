@@ -1,0 +1,14 @@
+div p {
+color: green;
+}
+
+.demo {
+    p: red;
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#demoId {
+    background-color: black;
+    color: white;
+}
